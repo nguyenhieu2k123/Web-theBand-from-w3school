@@ -11,7 +11,7 @@
         margin-top: 8px!important;
     }
     #header {
-        overflow: hidden;
+        /* overflow: hidden; */
     }
     #header .mb-menu-btn {
         display: block;
